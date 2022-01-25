@@ -1,8 +1,4 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_DZIELENIE_H
-#define PROJEKTGIT_DZIELENIE_H
-
-#endif //PROJEKTGIT_DZIELENIE_H
+void dzielenie(int liczba1, int liczba2){
+    int wynik=liczba1/liczba2;
+    printf("Wynik dzielenia tych dwoch liczb wynosi: %d", &wynik);
+}
