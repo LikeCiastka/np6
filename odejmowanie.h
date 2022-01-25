@@ -1,0 +1,8 @@
+//
+// Created by kamil on 25.01.2022.
+//
+
+#ifndef PROJEKTGIT_ODEJMOWANIE_H
+#define PROJEKTGIT_ODEJMOWANIE_H
+
+#endif //PROJEKTGIT_ODEJMOWANIE_H
