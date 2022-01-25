@@ -1,8 +1,3 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_MNOZENIE_H
-#define PROJEKTGIT_MNOZENIE_H
-
-#endif //PROJEKTGIT_MNOZENIE_H
+void mnozenie(int liczba1, int liczba2){
+    int wynik=liczba1*liczba2;
+    printf("Wynik mnozenia tych dwoch liczb wynosi: %d", &wynik);
