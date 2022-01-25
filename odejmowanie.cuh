@@ -1,8 +1,0 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_ODEJMOWANIE_CUH
-#define PROJEKTGIT_ODEJMOWANIE_CUH
-
-#endif //PROJEKTGIT_ODEJMOWANIE_CUH
