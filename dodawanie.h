@@ -1,8 +1,4 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_DODAWANIE_H
-#define PROJEKTGIT_DODAWANIE_H
-
-#endif //PROJEKTGIT_DODAWANIE_H
+void dodawanie(int liczba1, int liczba2){
+    int wynik=liczba1+liczba2;
+    printf("Wynik dodawania tych dwoch liczb wynosi: %d", &wynik);
+}
