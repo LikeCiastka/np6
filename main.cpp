@@ -1,5 +1,8 @@
 #include <iostream>
-#include "silnia.h"
+#include "dodawanie.cuh"
+#include "odejmowanie.cuh"
+#include "mnozenie.cuh"
+#include "dzielenie.cuh"
 
 int main(){
     char znak;
