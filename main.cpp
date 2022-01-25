@@ -13,16 +13,16 @@ int main(){
     scanf("%d", &liczba2);
     switch (znak){
         case 1;
-            dodawanie();
+            dodawanie(liczba1, liczba2);
             break;
         case 2;
-            odejmowanie();
+            odejmowanie(liczba1, liczba2);
             break;
         case 3;
-            mnozenie();
+            mnozenie(liczba1, liczba2);
             break
         case 4;
-            dzielenie();
+            dzielenie(liczba1, liczba2);
             break;
     }
 }
