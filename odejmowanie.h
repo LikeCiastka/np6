@@ -1,8 +1,4 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_ODEJMOWANIE_H
-#define PROJEKTGIT_ODEJMOWANIE_H
-
-#endif //PROJEKTGIT_ODEJMOWANIE_H
+void odejmowanie(int liczba1, int liczba2){
+    int wynik=liczba1-liczba2;
+    printf("Wynik odejmowania tych dwoch liczb wynosi: %d", &wynik);
+}
