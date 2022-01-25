@@ -1,8 +1,0 @@
-//
-// Created by kamil on 25.01.2022.
-//
-
-#ifndef PROJEKTGIT_DZIELENIE_CUH
-#define PROJEKTGIT_DZIELENIE_CUH
-
-#endif //PROJEKTGIT_DZIELENIE_CUH
