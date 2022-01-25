@@ -3,7 +3,6 @@
 #include "odejmowanie.h"
 #include "mnozenie.h"
 #include "dzielenie.h"
-
 int main(){
     char znak;
     int liczba1, liczba2
