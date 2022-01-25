@@ -1,4 +1,5 @@
 #include <iostream>
+#include "silnia.h"
 
 int main(){
     char znak;
