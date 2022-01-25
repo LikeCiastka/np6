@@ -6,5 +6,5 @@ Skrypt po uruchomieniu się, prosi o podanie określonego znaku oraz w zależno�
 tego typu
 123
 
-Test test test
+  Test test test
 
